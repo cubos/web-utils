@@ -1,7 +1,13 @@
 {
-  "name": "js-utils",
+  "name": "web-utils",
   "version": "0.0.1",
-  "description": "A lib for JavaScript helpers",
+  "description": "A lib for Javascript helpers",
+  "files": [
+    "dist/",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -11,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EduardoLopes/js-utils.git"
+    "url": "git+https://github.com/cubos/web-utils.git"
   },
   "keywords": [
     "helpers",
@@ -20,9 +26,9 @@
   "author": "Cubos <cubos@cubos.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EduardoLopes/js-utils/issues"
+    "url": "https://github.com/cubos/web-utils/issues"
   },
-  "homepage": "https://github.com/EduardoLopes/js-utils#readme",
+  "homepage": "https://github.com/cubos/web-utils/issues#readme",
   "devDependencies": {
     "@types/mocha": "^8.2.0",
     "@types/jest": "^26.0.19",
