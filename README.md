@@ -1,2 +1,2 @@
-# js-utils
-A lib for JavaScript helpers 
+# web-utils
+A lib for JavaScript helpers
